@@ -1,0 +1,1 @@
+define(function(require){ return '<td>{{id}}</td><td>{{name}}</td><td>{{sex}}</td><td>{{age}}</td><td>{{hobby}}</td><td><a name=\"modify\" class=\"btn\">修改</a></td>'})
